@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marta\\OneDrive\\Plocha\\repos\\UserAutentization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54636605-F5C3-4D75-9D18-3027E53E7D8D}|UserAutentization\\UserAutentization.csproj|c:\\users\\marta\\onedrive\\plocha\\repos\\userautentization\\userautentization\\controllers\\autentization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54636605-F5C3-4D75-9D18-3027E53E7D8D}|UserAutentization\\UserAutentization.csproj|solutionrelative:userautentization\\controllers\\autentization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54636605-F5C3-4D75-9D18-3027E53E7D8D}|UserAutentization\\UserAutentization.csproj|c:\\users\\marta\\onedrive\\plocha\\repos\\userautentization\\userautentization\\data\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54636605-F5C3-4D75-9D18-3027E53E7D8D}|UserAutentization\\UserAutentization.csproj|solutionrelative:userautentization\\data\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54636605-F5C3-4D75-9D18-3027E53E7D8D}|UserAutentization\\UserAutentization.csproj|c:\\users\\marta\\onedrive\\plocha\\repos\\userautentization\\userautentization\\data\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54636605-F5C3-4D75-9D18-3027E53E7D8D}|UserAutentization\\UserAutentization.csproj|solutionrelative:userautentization\\data\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54636605-F5C3-4D75-9D18-3027E53E7D8D}|UserAutentization\\UserAutentization.csproj|c:\\users\\marta\\onedrive\\plocha\\repos\\userautentization\\userautentization\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54636605-F5C3-4D75-9D18-3027E53E7D8D}|UserAutentization\\UserAutentization.csproj|solutionrelative:userautentization\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54636605-F5C3-4D75-9D18-3027E53E7D8D}|UserAutentization\\UserAutentization.csproj|c:\\users\\marta\\onedrive\\plocha\\repos\\userautentization\\userautentization\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54636605-F5C3-4D75-9D18-3027E53E7D8D}|UserAutentization\\UserAutentization.csproj|solutionrelative:userautentization\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54636605-F5C3-4D75-9D18-3027E53E7D8D}|UserAutentization\\UserAutentization.csproj|c:\\users\\marta\\onedrive\\plocha\\repos\\userautentization\\userautentization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54636605-F5C3-4D75-9D18-3027E53E7D8D}|UserAutentization\\UserAutentization.csproj|solutionrelative:userautentization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54636605-F5C3-4D75-9D18-3027E53E7D8D}|UserAutentization\\UserAutentization.csproj|c:\\users\\marta\\onedrive\\plocha\\repos\\userautentization\\userautentization\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54636605-F5C3-4D75-9D18-3027E53E7D8D}|UserAutentization\\UserAutentization.csproj|solutionrelative:userautentization\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54636605-F5C3-4D75-9D18-3027E53E7D8D}|UserAutentization\\UserAutentization.csproj|c:\\users\\marta\\onedrive\\plocha\\repos\\userautentization\\userautentization\\userautentization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54636605-F5C3-4D75-9D18-3027E53E7D8D}|UserAutentization\\UserAutentization.csproj|solutionrelative:userautentization\\userautentization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f37f5141-198e-4181-9582-7b026ee8f915}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2130095390:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:86359178:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1600231002:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:120076581:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:177036615:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:272664213:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1306593376:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marta\\OneDrive\\Plocha\\repos\\UserAutentization\\UserAutentization\\appsettings.json",
+              "RelativeDocumentMoniker": "UserAutentization\\appsettings.json",
+              "ToolTip": "C:\\Users\\marta\\OneDrive\\Plocha\\repos\\UserAutentization\\UserAutentization\\appsettings.json",
+              "RelativeToolTip": "UserAutentization\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T21:02:42.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\marta\\OneDrive\\Plocha\\repos\\UserAutentization\\UserAutentization\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "UserAutentization\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\marta\\OneDrive\\Plocha\\repos\\UserAutentization\\UserAutentization\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "UserAutentization\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:02:42.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Autentization.cs",
+              "DocumentMoniker": "C:\\Users\\marta\\OneDrive\\Plocha\\repos\\UserAutentization\\UserAutentization\\Controllers\\Autentization.cs",
+              "RelativeDocumentMoniker": "UserAutentization\\Controllers\\Autentization.cs",
+              "ToolTip": "C:\\Users\\marta\\OneDrive\\Plocha\\repos\\UserAutentization\\UserAutentization\\Controllers\\Autentization.cs",
+              "RelativeToolTip": "UserAutentization\\Controllers\\Autentization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:02:42.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInfoDto.cs",
+              "DocumentMoniker": "C:\\Users\\marta\\OneDrive\\Plocha\\repos\\UserAutentization\\UserAutentization\\Data\\UserInfoDto.cs",
+              "RelativeDocumentMoniker": "UserAutentization\\Data\\UserInfoDto.cs",
+              "ToolTip": "C:\\Users\\marta\\OneDrive\\Plocha\\repos\\UserAutentization\\UserAutentization\\Data\\UserInfoDto.cs",
+              "RelativeToolTip": "UserAutentization\\Data\\UserInfoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:02:42.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marta\\OneDrive\\Plocha\\repos\\UserAutentization\\UserAutentization\\Program.cs",
+              "RelativeDocumentMoniker": "UserAutentization\\Program.cs",
+              "ToolTip": "C:\\Users\\marta\\OneDrive\\Plocha\\repos\\UserAutentization\\UserAutentization\\Program.cs",
+              "RelativeToolTip": "UserAutentization\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:02:42.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marta\\OneDrive\\Plocha\\repos\\UserAutentization\\UserAutentization\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UserAutentization\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\marta\\OneDrive\\Plocha\\repos\\UserAutentization\\UserAutentization\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UserAutentization\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:02:42.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginData.cs",
+              "DocumentMoniker": "C:\\Users\\marta\\OneDrive\\Plocha\\repos\\UserAutentization\\UserAutentization\\Data\\LoginData.cs",
+              "RelativeDocumentMoniker": "UserAutentization\\Data\\LoginData.cs",
+              "ToolTip": "C:\\Users\\marta\\OneDrive\\Plocha\\repos\\UserAutentization\\UserAutentization\\Data\\LoginData.cs",
+              "RelativeToolTip": "UserAutentization\\Data\\LoginData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:02:42.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserAutentization.csproj",
+              "DocumentMoniker": "C:\\Users\\marta\\OneDrive\\Plocha\\repos\\UserAutentization\\UserAutentization\\UserAutentization.csproj",
+              "RelativeDocumentMoniker": "UserAutentization\\UserAutentization.csproj",
+              "ToolTip": "C:\\Users\\marta\\OneDrive\\Plocha\\repos\\UserAutentization\\UserAutentization\\UserAutentization.csproj",
+              "RelativeToolTip": "UserAutentization\\UserAutentization.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T21:02:42.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
